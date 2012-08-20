@@ -1,10 +1,12 @@
 {
     "require": {
-        "silex/silex": "dev-master",
-        "twig/twig": "1.8.2",
+        "silex/silex": "1.0.*",
+        "twig/twig": "1.9.1",
         "doctrine/dbal": "2.2.2",
-        "monolog/monolog": "1.1.0"
+        "monolog/monolog": "1.2.0"
     },
+
+    "minimum-stability": "dev",
     
     "autoload": {
         "psr-0": { "Xpto": "src/" }

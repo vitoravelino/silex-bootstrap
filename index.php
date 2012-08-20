@@ -5,7 +5,7 @@ require_once __DIR__.'/vendor/autoload.php';
 ///////////////
 // Bootstrap //
 ///////////////
-$app = new Silex\Application(); 
+$app = new Xpto\Application(array('debug' => true)); 
 
 $app['debug'] = true;
 

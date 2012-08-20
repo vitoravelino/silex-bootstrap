@@ -8,15 +8,15 @@ Have fun!
 
 It uses the following tools:
 
-   - Silex (dev-master) ([http://silex.sensiolabs.org/documentation](http://silex.sensiolabs.org/documentation))
-   - Twig 1.8.2 ([http://twig.sensiolabs.org/documentation](http://twig.sensiolabs.org/documentation))
+   - Silex (6d7cf048c7) ([http://silex.sensiolabs.org/documentation](http://silex.sensiolabs.org/documentation))
+   - Twig 1.9.1 ([http://twig.sensiolabs.org/documentation](http://twig.sensiolabs.org/documentation))
    - DBAL 2.2.2 ([http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html](http://docs.doctrine-project.org/projects/doctrine-dbal/en/latest/index.html))
-   - Monolog 1.1.0 ([https://github.com/Seldaek/monolog](https://github.com/Seldaek/monolog))
-   - (plus their dependencies)
+   - Monolog 1.2.0 ([https://github.com/Seldaek/monolog](https://github.com/Seldaek/monolog))
+   - (plus their dependencies - don't worry, composer will handle that for you)
 
 ## Requirements
 
-The requirement is **PHP >= 5.3.3** and **Composer** ([http://getcomposer.org](http://getcomposer.org)).
+The requirement are **PHP >= 5.4** and **Composer** ([http://getcomposer.org](http://getcomposer.org)).
 
 ## Installing dependencies
 
